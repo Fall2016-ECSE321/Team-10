@@ -10,6 +10,6 @@ Team 10 - Food Truck Mangement System
 
 To run the mobile app, open from Android studio then run in an emulator or on an Android phone.
 
-To run the desktop app, simply run the FoodTruckManagementSystem.jar file.
+To run the desktop app, simply run the FoodTruckManagementSystem.jar file. Please refer to the note inside the FoodTruckManagementSystem_Desktop folder.
 
-To run the web app, you need you need xampp, then put the web folder in htdocs in xampp, then xampp > apache start, go to browser, go localhost, and should run as in assignment 1.
+To run the web app, you need you need xampp, then put the web folder in htdocs in xampp, then xampp > apache start, go to browser, go localhost, and should run as in Assignment 1.
