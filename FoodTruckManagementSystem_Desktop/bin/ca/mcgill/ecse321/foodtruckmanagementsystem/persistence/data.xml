@@ -1,0 +1,37 @@
+<manager id="1">
+  <foods id="2"/>
+  <employees id="3">
+    <employee id="4">
+      <name>Michael</name>
+      <workStartTime id="5"/>
+      <workEndTime id="6"/>
+      <id>5</id>
+    </employee>
+    <employee id="7">
+      <name>Steve</name>
+      <workStartTime id="8"/>
+      <workEndTime id="9"/>
+      <id>6</id>
+    </employee>
+  </employees>
+  <equipment id="10">
+    <equipment id="11">
+      <name>Fork</name>
+      <quantity>3</quantity>
+    </equipment>
+    <equipment id="12">
+      <name>Napkin</name>
+      <quantity>20</quantity>
+    </equipment>
+  </equipment>
+  <ingredients id="13">
+    <ingredient id="14">
+      <name>Lettuce</name>
+      <quantity>25</quantity>
+    </ingredient>
+    <ingredient id="15">
+      <name>Tomato</name>
+      <quantity>50</quantity>
+    </ingredient>
+  </ingredients>
+</manager>
