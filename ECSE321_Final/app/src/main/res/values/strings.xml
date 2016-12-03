@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">Food Truck Management System</string>
+    <string name="mainTitle">Main Menu</string>
+    <string name="staff">Staff Management</string>
+    <string name="inventory">Inventory Management</string>
+    <string name="menu">Menu Management</string>
+    <string name="orders">Add Orders</string>
+    <string name="staffTitle">Staff Management</string>
+    <string name="mainMenu">Main Menu</string>
+    <string name="staffName_hint">Enter Staff Name</string>
+    <string name="newStaff_button">Add Staff</string>
+    <string name="staffID_hint">Enter Staff ID</string>
+    <string name="back">Back</string>
+    <string name="modify">Modify</string>
+    <string name="staffItemTitle">Staff Member</string>
+    <string name="remove">Remove</string>
+    <string name="menuTitle">Menu Management</string>
+    <string name="menuItemName_hint">Enter Menu Item</string>
+    <string name="menuItemPrice_hint">Enter Item Price</string>
+    <string name="menuItemOrdered_hint">Enter Total Amount Ordered</string>
+    <string name="newMenuItem_button">Add Item</string>
+    <string name="MenuItemTItle">Menu Item</string>
+    <string name="orderTitle">Add Order</string>
+    <string name="add">Add</string>
+    <string name="ordername_hint">Enter Item Name</string>
+    <string name="ordernumber_hint">Enter #</string>
+    <string name="userGuide1">This food truck management app offers you the ability to manage
+        your very own food truck! In the main menu, you have the ability to chose from 1 of 3
+        features of this app, plus 1 additional bonus feature for an enhanced managerial
+        experience.
+    </string>
+    <string name="userGuide2">The first feature is the staff Management. In this menu, you
+        are able to add a staff name, along with a integer ID for identification. These can be
+        then modified by clicking the item in the list of staff members. After clicking a staff
+        member name, a sub menu will appear where you are able to modify their name (only take
+        a string) and ID (integer). You are also able to give this staff member a schedule by
+        clicking the "change schedule" button and then by selecting a date of the week and a
+        starting time. You are also able to remove a staff member by clicking the red remove
+        button.
+    </string>
+    <string name="userGuide3">The second feature is the inventory Management. In this menu, you
+        are able to add an item name, along with the number of items to add. The items that can
+        be added goes into 2 categories: ingredients and others. To chose into which list an
+        item goes, simply check/uncheck the check box before adding. After clicking an item
+        name, a sub menu will appear where you are able to modify their name (only take a string)
+        and number (integer). You are also able to remove an item by clicking the red remove
+        button.
+    </string>
+    <string name="userGuide4">The third feature is the menu item Management.In this menu, you
+        are able to add an food item name, along with the price of items to add, and a popularity
+        number (number of items sold). After clicking an item name, a sub menu will appear where
+        you are able to modify their name (only take a string), price (takes a double or an integer)
+        and popularity number (integer). You are also able to remove an item by clicking the
+        red remove button.
+    </string>
+    <string name="userGuide5">The last bonus feature is the add order feature. In this menu, you can
+        to the number of an food menu item directly. This feature is to help you keep track of the
+        food menu item popularity easier. For example, at the end of the day if you would like to add
+        the food items sold today from the receipts collected, simply go in here and add them directly.
+        You just have to enter the name of the item you want to add to (can only add to items already
+        in the food menu list) and a number to add to the popularity number (integer). this new number
+        will be then added to the previous popularity number directly. Because this is an add order
+        feature, to access this feature, you must first have items in the menu.
+    </string>
+    <string name="title_activity_inventory">InventoryActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="inventoryTitle">Inventory Management</string>
+    <string name="inventoryName_hint">Enter Item Name</string>
+    <string name="inventoryNumber_hint">Enter Item Number</string>
+    <string name="newInventory_button">Add Item</string>
+    <string name="checkbox">is ingredient?</string>
+    <string name="ingredientItemTitle">Ingredients</string>
+    <string name="toolsItemTitle">Equipments</string>
+    <string name="schedule">Change Schedule</string>
+    <string name="ScheduleTitle">Schedule Pick</string>
+    <string-array name="days">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+    </string-array>
+</resources>
